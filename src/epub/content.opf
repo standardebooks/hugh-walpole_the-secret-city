@@ -38,7 +38,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008117101</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">James Tait Black Memorial Prize Winners</meta>
+		<meta id="collection-1" property="belongs-to-collection">James Tait Black Memorial Fiction Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
@@ -59,11 +59,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79151207</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">William Orpen</dc:contributor>
-		<meta property="file-as" refines="#artist">Orpen, William</meta>
-		<meta property="se:name.person.full-name" refines="#artist">William Newenham Montague Orpen</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Orpen</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81102759</meta>
+		<dc:contributor id="artist">William Quiller Orchardson</dc:contributor>
+		<meta property="file-as" refines="#artist">Orchardson, William Quiller</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Quiller_Orchardson</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr89008025</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Charles Aldarondo</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Aldarondo, Charles</meta>
