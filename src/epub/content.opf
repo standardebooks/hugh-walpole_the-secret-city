@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/hugh-walpole/the-secret-city</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-03-22T02:49:00Z</dc:date>
+		<meta property="dcterms:modified">2022-03-22T02:49:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,15 +41,17 @@
 		<meta id="collection-1" property="belongs-to-collection">James Tait Black Memorial Fiction Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A Russian family and their English friends become tangled in threads of intrigue as the Revolution erupts around them.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Secret City&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/hugh-walpole"&gt;Walpole’s&lt;/a&gt; sequel to his earlier book about Russian life, &lt;i&gt;The Dark Forest&lt;/i&gt;. John Durward, the English protagonist from that book and a semi-autobiographical stand-in for Walpole, is visiting St. Petersburg (then Petrograd) when he runs in to some old friends from England. Through them he meets Vera and Nina, two young and bourgeois sisters, and Nicolai Markovitch, a downtrodden and ridiculous inventor. Semyonov, a brooding doctor who is the sisters’ uncle and a character from &lt;i&gt;The Dark Forest&lt;/i&gt;, returns as a dark, viperous thread weaving through the story.&lt;/p&gt;
+			&lt;p&gt;Durward narrates the lives of these bourgeois Russians as they love each other and fight amongst themselves in equal measure. But as they obliviously carry on their cozy, lamp-lit lives, the Russian Revolution breaks out around them. St. Petersburg quickly changes from a comfortable, elegant, and gently mysterious city to a bloody and cold scar across the face of civilization. As the air fills with the sound of gunfire and the smell of smoke and soot, Durward and his English and Russian friends become a microcosm of the chaos they find themselves engulfed in.&lt;/p&gt;
+			&lt;p&gt;Walpole lived some years in Russia during the Revolution, working as a journalist, then at the Russian Red Cross, and later as the Head of British Propaganda in St. Petersburg. His intimate knowledge of both the city and of the turbulent early days of the Revolution give &lt;i&gt;The Secret City&lt;/i&gt; a more than convincing air. It’s the first book to have won the prestigious &lt;a href="https://standardebooks.org/collections/james-tait-black-memorial-fiction-prize-winners"&gt;James Tait Black Memorial Prize for fiction&lt;/a&gt;, and is considered to be Walpole’s most delicate and insightful work.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/12349</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.210232</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">128015</meta>
+		<meta property="se:reading-ease.flesch">73.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Secret_City</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hugh-walpole_the-secret-city</meta>
 		<dc:creator id="author">Hugh Walpole</dc:creator>
