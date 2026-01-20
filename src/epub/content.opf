@@ -51,7 +51,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/12349</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.210232</dc:source>
-		<meta property="se:word-count">128015</meta>
+		<meta property="se:word-count">125616</meta>
 		<meta property="se:reading-ease.flesch">73.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Secret_City</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hugh-walpole_the-secret-city</meta>
